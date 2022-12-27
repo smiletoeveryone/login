@@ -3,7 +3,7 @@
 ### 1. please run "npm install" first in the  terminal
 
 
-### 2. please connect to your own mysql database
+### 2. please connect to your own mysql database by modifying database.js
 
 
 
